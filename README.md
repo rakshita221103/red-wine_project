@@ -18,6 +18,8 @@ The "Red Wine Quality Prediction" project makes use of supervised machine learni
 # LOGISTIC REGRESSION
 Logistic Regression is a statistical technique used to predict the probability of a binary outcome, such as good and bad quality, in a dataset given input variables like acidity levels and sugar content. In the project of "Red Wine Quality Prediction," this method is applied to classify which wines have the likelihood of being rated good or bad according to their chemical attributes.
 
+![image](https://github.com/user-attachments/assets/4c8cb1da-048c-41ea-93ab-5bdf54a26fa4)
+
 # Project Demo
 
 ![image](https://github.com/user-attachments/assets/00faff40-cdd9-4285-9723-2566ef4ed8e4)
